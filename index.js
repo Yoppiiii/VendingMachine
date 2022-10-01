@@ -156,7 +156,7 @@ class Action {
 
 class Algoritm {
     static getPosition(index, input){
-        if (index < input) return "right";
+        if (index <= input) return "right";
         else return "left";
     }
 }
