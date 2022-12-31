@@ -4,4 +4,4 @@ RecursionのProject2「Vending Machine」で作成したアプリです。<br>
 画像をクリックするとBitFlyerの購入ページへ移動します。
 
 ## Url
-https://yoppiiiii.github.io/project2_VendingMachine/
+https://yoppiiii.github.io/VendingMachine/
